@@ -4,7 +4,7 @@
 
 * 📍 I was born and raised in Porto, Portugal, where I currently live.
 * 🎓 2nd-year Bachelor in Informatics Engineering (Application Development) @ **Instituto Superior de Engenharia de Coimbra (ISEC)**.
-
+* 💼 You can check out my portfolio here: [ribeiro-portfolio.vercel.app](https://ribeiro-portfolio.vercel.app) 
 ## 💻 Tech Loadout
 
 ### Programming Languages
